@@ -26,7 +26,6 @@ A FAZER faça um texto explicando o contexto.
 |
 ├── imagens            <- Imagens utilizadas no projeto
 ```
-![imagem](imagens/diabetes.jpg)
 
 ## Configuração do ambiente
 
